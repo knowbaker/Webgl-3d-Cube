@@ -1,3 +1,3 @@
 webgl
 =====
-A cube with rotation in all three dimensions using three.js
+A cube with mouse/touch driven movement in all three dimensions using three.js
